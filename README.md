@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to Grubalicious 
+description: Bookmark this page to enjoy delicoius updates on the best grub in london.
 
 You can use the [editor on GitHub](https://github.com/billiequinlan/CodeFirst-Girls/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
